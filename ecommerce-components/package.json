@@ -1,5 +1,5 @@
 {
-  "name": "root",
+  "name": "ecommerce-components",
   "private": true,
   "workspaces": [
     "packages/*"
