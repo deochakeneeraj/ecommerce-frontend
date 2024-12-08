@@ -1,7 +1,7 @@
 ## Ecommerce application
 Technologies used React + TypeScript + Vite
 ## Table of contents 
-- [upgrade packages](#Upgrade packages)
+- [upgrade packages](#Upgrade)
 - [license](#License)
  
 ##  Upgrade packages
