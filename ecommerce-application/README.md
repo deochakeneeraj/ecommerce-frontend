@@ -1,12 +1,12 @@
 ## Ecommerce application
 Technologies used React + TypeScript + Vite
 ## Table of contents 
-- [upgrade packages] (#Upgrade packages)
+- [upgrade packages](#Upgrade packages)
  
 ##  Upgrade packages
 ```
- npm install -g npm-check-updates
- npx npm-check-updates -u
+npm install -g npm-check-updates
+npx npm-check-updates -u
 npm i
 ```
 
