@@ -2,6 +2,7 @@
 Technologies used React + TypeScript + Vite
 ## Table of contents 
 - [upgrade packages](#Upgrade packages)
+- [license](#License)
  
 ##  Upgrade packages
 ```
